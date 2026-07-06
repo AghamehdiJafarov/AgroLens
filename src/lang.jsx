@@ -138,6 +138,27 @@ export const DICT = {
                     en: "As photos pass through the tool, they accumulate into a labelled base for local crops — from which a model is later trained to add disease recognition. Industrial systems' databases grew the same way: with every inspection.",
                     az: "Şəkillər alətdən keçdikcə yerli məhsullar üçün etiketlənmiş bazada toplanır — sonra ondan xəstəlik tanınmasını əlavə edəcək model öyrədilir. Sənaye sistemlərinin bazaları da belə böyüdü: hər yoxlama ilə." },
 
+  /* ---------- ПРОМО-ВИДЕО ---------- */
+  vid_eyebrow:    { ru: "Промо",                        en: "Promo",                        az: "Promo" },
+  vid_h:          { ru: "Как это работает",             en: "How it works",                 az: "Necə işləyir" },
+  vid_p:          { ru: "Короткий обзор инструмента: от фото партии до готового сорта.",
+                    en: "A short walkthrough: from a batch photo to a finished grade.",
+                    az: "Qısa icmal: partiya şəklindən hazır dərəcəyə qədər." },
+  vid_placeholder_h:{ ru: "Место для промо-ролика",     en: "Promo video placeholder",      az: "Promo video yeri" },
+  vid_placeholder_p:{ ru: "Вставь ID ролика с YouTube в переменную YT_ID в начале файла Landing.jsx — и здесь появится видео.",
+                    en: "Set your YouTube video ID in the YT_ID variable at the top of Landing.jsx and the video will appear here.",
+                    az: "YouTube video ID-ni Landing.jsx faylının əvvəlindəki YT_ID dəyişəninə yaz — və burada video görünəcək." },
+  hero_watch:     { ru: "Смотреть промо",               en: "Watch promo",                  az: "Promonu izlə" },
+
+  /* ---------- ПРЕЗЕНТАЦИЯ ---------- */
+  nav_deck:       { ru: "Презентация",                  en: "Deck",                         az: "Təqdimat" },
+  deck_eyebrow:   { ru: "Презентация",                  en: "Deck",                         az: "Təqdimat" },
+  deck_h:         { ru: "Полный обзор в одном файле",   en: "The full overview in one file",az: "Tam icmal bir faylda" },
+  deck_p:         { ru: "Проблема, инструмент, границы точности и рынок — в одной PDF-презентации для инвестора или партнёра.",
+                    en: "Problem, tool, accuracy limits and market — in one PDF deck for an investor or partner.",
+                    az: "Problem, alət, dəqiqlik hüdudları və bazar — investor və ya tərəfdaş üçün bir PDF təqdimatında." },
+  deck_btn:       { ru: "Скачать презентацию (PDF)",    en: "Download deck (PDF)",          az: "Təqdimatı yüklə (PDF)" },
+
   /* ---------- CTA финальный ---------- */
   final_h:        { ru: "Проверь на своей фотографии",  en: "Try it on your own photo",     az: "Öz şəklində yoxla" },
   final_p:        { ru: "Инструмент открыт сразу, без регистрации. Загрузи снимок или запусти готовый пример.",
